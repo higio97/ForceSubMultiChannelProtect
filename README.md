@@ -1,43 +1,19 @@
 # File-to-link-bot
 
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="450">
-  </a><br>
-  <a href="https://t.me/CodeXBotz">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
-  </a>
-  <a href="https://t.me/codexbotzsupport">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
-  </a>
-  <br>
-  <a href="https://github.com/davi78/File_link-multi_forcesubs/stargazers">
-    <img src="https://img.shields.io/github/stars/davi78/File-to-link-bot?style=social">
-  </a>
-  <a href="https://github.com/davi78/File_link-multi_forcesubs/fork">
-    <img src="https://img.shields.io/github/forks/davi78/File-to-link-bot?label=Fork&style=social">
-  </a>  
-</p>
-
-
 Telegram Bot untuk menyimpan Posting dan Dokumen dan dapat Diakses melalui Tautan Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.....😇.
 
 ##
-
-**Jika Anda memerlukan mode lagi dalam repo atau Jika Anda menemukan bug, sebutkan di [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
-
-##
 ### Cara install
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/davi78/File_link-multi_forcesubs)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/davi78/file-to-link)</br>
 <a href="https://t.me/chatjomblohalu_bot">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/davi78/File-to-link-bot
+git clone https://github.com/davi78/file-to-link
 cd File-to-link-bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
